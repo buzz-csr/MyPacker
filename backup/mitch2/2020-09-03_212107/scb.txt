@@ -1,0 +1,71 @@
+{
+  "CashEarned": 948641673,
+  "CashSpent": 907724499,
+  "GoldEarned": 158360,
+  "GoldSpent": 149919,
+  "GachaBronzeKeysEarned": 383220,
+  "GachaBronzeKeysSpent": 356400,
+  "GachaSilverKeysEarned": 49431,
+  "GachaSilverKeysSpent": 34200,
+  "GachaGoldKeysEarned": 1285,
+  "GachaGoldKeysSpent": 1000,
+  "RP": 31189766,
+  "RacesInCrewEarned": 0,
+  "RacesInCrewSpent": 0,
+  "RestorationPartsEarned": {
+    "Ferrari_250GTOClassic_1962": 20169,
+    "AstonMartin_DB5Classic_1964": 19430,
+    "MercedesBenz_300SLClassic_1954": 17408,
+    "Shelby_Cobra427SCClassic_1965": 26561,
+    "Lamborghini_CountachClassic_1988": 32432,
+    "Pontiac_GTOTheJudgeClassic_1969": 14009,
+    "Chevrolet_CorvetteZR1Classic_1970": 26461,
+    "Honda_NSXRClassic_1992": 15061,
+    "Plymouth_HemiCudaClassic_1971": 16215,
+    "Jaguar_XJ220Classic_1993": 17933,
+    "Porsche_CarreraGTClassic_2003": 15460,
+    "Ford_GT40MkII_1966": 35835,
+    "Bugatti_EB110SSClassic_1992": 50037,
+    "Saleen_S7Classic_2004": 9909
+  },
+  "RestorationPartsSpent": {
+    "Ferrari_250GTOClassic_1962": 14800,
+    "MercedesBenz_300SLClassic_1954": 17400,
+    "AstonMartin_DB5Classic_1964": 17400,
+    "Shelby_Cobra427SCClassic_1965": 25800,
+    "Chevrolet_CorvetteZR1Classic_1970": 25800,
+    "Bugatti_EB110SSClassic_1992": 50000,
+    "Ford_GT40MkII_1966": 35600,
+    "Lamborghini_CountachClassic_1988": 32200
+  },
+  "AMPartGreenEarned": 12515,
+  "AMPartBlueEarned": 11450,
+  "AMPartRedEarned": 2692,
+  "AMPartYellowEarned": 131,
+  "AMPartGreenSpent": 9240,
+  "AMPartBlueSpent": 1450,
+  "AMPartRedSpent": 360,
+  "AMPartYellowSpent": 0,
+  "CarsSecureData": {
+    "14": {
+      "cui": 14,
+      "amml": 50
+    },
+    "134": {
+      "cui": 134,
+      "amml": 3
+    },
+    "311": {
+      "cui": 311,
+      "amml": 10
+    },
+    "455": {
+      "cui": 455,
+      "amml": 2
+    },
+    "303": {
+      "cui": 303,
+      "amml": 11
+    }
+  }
+}

@@ -1,0 +1,94 @@
+
+{
+    "CashEarned": 841145960,
+    "CashSpent": 189195776,
+    "GoldEarned": 176000,
+    "GoldSpent": 36772,
+    "GachaBronzeKeysEarned": 225515,
+    "GachaBronzeKeysSpent": 32750,
+    "GachaSilverKeysEarned": 25985,
+    "GachaSilverKeysSpent": 2040,
+    "GachaGoldKeysEarned": 711,
+    "GachaGoldKeysSpent": 192,
+    "RP": 34691285,
+    "RacesInCrewEarned": 10,
+    "RacesInCrewSpent": 0,
+    "RestorationPartsEarned": {
+        "Ferrari_250GTOClassic_1962": 21775,
+        "AstonMartin_DB5Classic_1964": 19850,
+        "MercedesBenz_300SLClassic_1954": 22400,
+        "Shelby_Cobra427SCClassic_1965": 31250,
+        "Pontiac_GTOTheJudgeClassic_1969": 32450,
+        "Honda_NSXRClassic_1992": 41050,
+        "Lamborghini_CountachClassic_1988": 43600,
+        "Chevrolet_CorvetteZR1Classic_1970": 27400,
+        "Plymouth_HemiCudaClassic_1971": 39600,
+        "Jaguar_XJ220Classic_1993": 58000,
+        "Ford_GT40MkII_1966": 43650,
+        "Porsche_CarreraGTClassic_2003": 55650,
+        "Bugatti_EB110SSClassic_1992": 56800,
+        "Saleen_S7Classic_2004": 56700
+    },
+    "RestorationPartsSpent": {
+        "Ferrari_250GTOClassic_1962": 14800,
+        "AstonMartin_DB5Classic_1964": 17400,
+        "Honda_NSXRClassic_1992": 36000,
+        "MercedesBenz_300SLClassic_1954": 17400,
+        "Chevrolet_CorvetteZR1Classic_1970": 25800,
+        "Shelby_Cobra427SCClassic_1965": 25800,
+        "Pontiac_GTOTheJudgeClassic_1969": 29600,
+        "Lamborghini_CountachClassic_1988": 40400,
+        "Porsche_CarreraGTClassic_2003": 50000,
+        "Ford_GT40MkII_1966": 35600,
+        "Plymouth_HemiCudaClassic_1971": 38200,
+        "Bugatti_EB110SSClassic_1992": 50000,
+        "Jaguar_XJ220Classic_1993": 53400,
+        "Saleen_S7Classic_2004": 56400
+    },
+    "AMPartGreenEarned": 27170,
+    "AMPartBlueEarned": 11625,
+    "AMPartRedEarned": 3867,
+    "AMPartYellowEarned": 341,
+    "AMPartGreenSpent": 23085,
+    "AMPartBlueSpent": 1625,
+    "AMPartRedSpent": 360,
+    "AMPartYellowSpent": 0,
+    "CarsSecureData": {
+        "37": {
+            "cui": 37,
+            "amml": 6
+        },
+        "71": {
+            "cui": 71,
+            "amml": 13
+        },
+        "252": {
+            "cui": 252,
+            "amml": 50
+        },
+        "251": {
+            "cui": 251,
+            "amml": 8
+        },
+        "292": {
+            "cui": 292,
+            "amml": 7
+        },
+        "356": {
+            "cui": 356,
+            "amml": 2
+        },
+        "482": {
+            "cui": 482,
+            "amml": 5
+        },
+        "489": {
+            "cui": 489,
+            "amml": 9
+        },
+        "634": {
+            "cui": 634,
+            "amml": 18
+        }
+    }
+}

@@ -1,0 +1,1647 @@
+{
+  "name": "jeromebuzz74",
+  "nXXX": "",
+  "nman": "",
+  "prvr": "2.13.0",
+  "prvrfi": "2.13.0",
+  "dbvr": 0,
+  "ltosv": 4,
+  "las": "ACTIVE",
+  "gdprcs": "Consented",
+  "gdprcds": true,
+  "gdprcpv": 2,
+  "ccpacltc": 0,
+  "ccpacs": false,
+  "ccpaoov": "control",
+  "moptinfcs": 0,
+  "moptinnour": false,
+  "moptintlact": 0,
+  "boqt": 0.0,
+  "boht": 0.0,
+  "tdtr": 402.325,
+  "tplt": 0,
+  "tgrt": 0,
+  "tosm": 0.0,
+  "ml00": 0,
+  "ml01": 0,
+  "ml02": 0,
+  "ml03": 0,
+  "ml04": 0,
+  "mp00": 0.0,
+  "mp01": 0.0,
+  "mp02": 0.0,
+  "mp03": 0.0,
+  "mp04": 0.0,
+  "msnp": false,
+  "caea": 0,
+  "casp": 0,
+  "rpsp": 0,
+  "iacs": 0,
+  "pcbp": 0.0,
+  "rpbp": 0.0,
+  "goea": 130,
+  "gosp": 130,
+  "iags": 0,
+  "gbke": 0,
+  "gbks": 0,
+  "igbk": 0,
+  "gske": 0,
+  "gsks": 0,
+  "igsk": 0,
+  "ggke": 0,
+  "ggks": 0,
+  "iggk": 0,
+  "afme": {
+    "Green": 0,
+    "Blue": 0,
+    "Red": 0,
+    "Yellow": 0
+  },
+  "afms": {
+    "Green": 0,
+    "Blue": 0,
+    "Red": 0,
+    "Yellow": 0
+  },
+  "iafm": {},
+  "dbdt": 0,
+  "dbla": 0,
+  "dbir": 0,
+  "dblt": 0,
+  "odbct": "01/01/0001 00:00:00",
+  "mgpl": 0,
+  "mgat": 0,
+  "lblt": "01/01/0001 00:00:00",
+  "lbct": "01/01/0001 00:00:00",
+  "cert": "07/24/2020 00:00:00",
+  "lpff": "12/31/9999 23:59:59",
+  "rldb": 0,
+  "dbac": "",
+  "dbt5": [],
+  "dbrl": [],
+  "dbrm": 0,
+  "bnou": 0,
+  "nful": 0,
+  "nffl": 0,
+  "nftr": 0,
+  "nfdl": 0,
+  "gfsi": {
+    "Bronze": -9223372036854775808,
+    "AUTOMATED_SILVER_GACHA": -9223372036854775808,
+    "Ford_Performance_Event_Lockin_1": -9223372036854775808,
+    "Ford_Performance_Event_Lockin_2": -9223372036854775808,
+    "Ford_Performance_Event_Lockin_3": -9223372036854775808,
+    "Ford_Performance_Event_Lockin_4": -9223372036854775808,
+    "FORD_HERITAGE_EVENT": -9223372036854775808,
+    "CustomLegendGoldGacha_109": -9223372036854775808,
+    "CustomEvolutionGacha_109": -9223372036854775808,
+    "FNF_ORIGINS_1": -9223372036854775808,
+    "FNF_ORIGINS_2": -9223372036854775808,
+    "FNF_ORIGINS_3": -9223372036854775808,
+    "FNF_ORIGINS_4": -9223372036854775808,
+    "FNF_ORIGINS_5": -9223372036854775808,
+    "IZZYS_ASSISTANCE_B_1": -9223372036854775808,
+    "IZZYS_ASSISTANCE_B_2": -9223372036854775808,
+    "IZZYS_ASSISTANCE_B_3": -9223372036854775808,
+    "IZZYS_ASSISTANCE_A_1": -9223372036854775808,
+    "IZZYS_ASSISTANCE_A_2": -9223372036854775808,
+    "IZZYS_ASSISTANCE_A_3": -9223372036854775808,
+    "IZZYS_ASSISTANCE_C_1": -9223372036854775808,
+    "IZZYS_ASSISTANCE_C_2": -9223372036854775808,
+    "IZZYS_ASSISTANCE_C_3": -9223372036854775808,
+    "IZZYS_ASSISTANCE_D_1": -9223372036854775808,
+    "IZZYS_ASSISTANCE_D_2": -9223372036854775808,
+    "IZZYS_ASSISTANCE_D_3": -9223372036854775808,
+    "STEPUP_GOLD_TRINITYCUP_CAR_A_1": -9223372036854775808,
+    "STEPUP_GOLD_TRINITYCUP_CAR_B_1": -9223372036854775808,
+    "STEPUP_GOLD_TRINITYCUP_CAR_C_1": -9223372036854775808,
+    "LAMBO_ROADSTER_A": -9223372036854775808,
+    "LAMBO_ROADSTER_B": -9223372036854775808,
+    "LAMBO_ROADSTER_C": -9223372036854775808,
+    "LAMBO_ROADSTER_D": -9223372036854775808,
+    "HYPERCAR_FORUM_A": -9223372036854775808,
+    "HYPERCAR_FORUM_B": -9223372036854775808,
+    "HYPERCAR_FORUM_C": -9223372036854775808,
+    "HYPERCAR_FORUM_D": -9223372036854775808,
+    "HYPERCAR_FORUM_E": -9223372036854775808,
+    "SMP_SHOWDOWN_114_W2_GroupGacha1": -9223372036854775808,
+    "SMP_SHOWDOWN_114_W2_GroupGacha2": -9223372036854775808,
+    "SMP_SHOWDOWN_114_W2_Car1": -9223372036854775808,
+    "SMP_SHOWDOWN_114_W2_Car2": -9223372036854775808,
+    "SMP_SHOWDOWN_114_W2_Car3": -9223372036854775808,
+    "SMP_SHOWDOWN_114_W2_Car4": -9223372036854775808,
+    "SMP_SHOWDOWN_115_W2_GroupGacha1": -9223372036854775808,
+    "SMP_SHOWDOWN_115_W2_GroupGacha2": -9223372036854775808,
+    "SMP_SHOWDOWN_115_W2_Car1": -9223372036854775808,
+    "SMP_SHOWDOWN_115_W2_Car2": -9223372036854775808,
+    "SMP_SHOWDOWN_115_W2_Car3": -9223372036854775808,
+    "SMP_SHOWDOWN_W1_Lamborghini_HuracanLP6104_2014": -9223372036854775808,
+    "SMP_SHOWDOWN_MIA_Car2": -9223372036854775808,
+    "SMP_SHOWDOWN_MIA_Car3": -9223372036854775808,
+    "SMP_SHOWDOWN_MIA_Car4": -9223372036854775808,
+    "SMP_SHOWDOWN_MIA_Car5": -9223372036854775808,
+    "SMP_SHOWDOWN_W1_Ford_MustangGTPremium_2015": -9223372036854775808,
+    "SMP_SHOWDOWN_W1_Chevrolet_CamaroSS_2016": -9223372036854775808,
+    "SMP_SHOWDOWN_W1_Dodge_ChallengerSRTHellcat_2015": -9223372036854775808,
+    "SMP_SHOWDOWN_W1_Jeep_GrandCherokeeTrackhawk_2018": -9223372036854775808,
+    "SMP_SHOWDOWN_W1_LocalMotor_RallyFighter_2013": -9223372036854775808,
+    "TRINITY_CUP_PARTS_A": -9223372036854775808,
+    "TRINITY_CUP_PARTS_B": -9223372036854775808,
+    "TRINITY_CUP_PARTS_C": -9223372036854775808,
+    "DUALITY_CUP_110_GachaA": -9223372036854775808,
+    "DUALITY_CUP_110_GachaB": -9223372036854775808,
+    "FNF_2_1": -9223372036854775808,
+    "FNF_2_2": -9223372036854775808,
+    "FNF_2_3": -9223372036854775808,
+    "FNF_2_4": -9223372036854775808,
+    "FNF_2_5": -9223372036854775808,
+    "FNF_STEPUP_FNF_1": -9223372036854775808,
+    "FNF_2_EVO_A": -9223372036854775808,
+    "FNF_2_EVO_B": -9223372036854775808,
+    "FNF_2_EVO_C": -9223372036854775808,
+    "FNF_2_EVO_D": -9223372036854775808,
+    "FNF_2_EVO_E": -9223372036854775808,
+    "Bronze_Progressive": -9223372036854775808,
+    "SMP_SHOWDOWN_116_W2_GroupGacha1": -9223372036854775808,
+    "SMP_SHOWDOWN_116_W2_GroupGacha2": -9223372036854775808,
+    "SMP_SHOWDOWN_116_W2_Car1": -9223372036854775808,
+    "SMP_SHOWDOWN_116_W2_Car2": -9223372036854775808,
+    "SMP_SHOWDOWN_116_W2_Car3": -9223372036854775808,
+    "SMP_SHOWDOWN_116_W2_Car4": -9223372036854775808,
+    "TRINITY_CUP_PITTSBURGH_PARTS_A": -9223372036854775808,
+    "TRINITY_CUP_PITTSBURGH_PARTS_B": -9223372036854775808,
+    "TRINITY_CUP_PITTSBURGH_PARTS_C": -9223372036854775808,
+    "SMP_SHOWDOWN_112_W2_GroupGacha1": -9223372036854775808,
+    "SMP_SHOWDOWN_112_W2_Car1": -9223372036854775808,
+    "SMP_SHOWDOWN_112_W2_Car2": -9223372036854775808,
+    "SMP_SHOWDOWN_112_W2_Car3": -9223372036854775808,
+    "SMP_SHOWDOWN_112_W2_Car4": -9223372036854775808,
+    "SMP_SHOWDOWN_112_W2_Car5": -9223372036854775808,
+    "MIA_III_A": -9223372036854775808,
+    "MIA_III_B": -9223372036854775808,
+    "MIA_III_C": -9223372036854775808,
+    "MIA_III_D": -9223372036854775808,
+    "FNF_FINALE_A": -9223372036854775808,
+    "FNF_FINALE_B": -9223372036854775808,
+    "FNF_FINALE_C": -9223372036854775808,
+    "FNF_FINALE_D": -9223372036854775808,
+    "CustomLegendGoldGacha_117": -9223372036854775808,
+    "CustomEvolutionGacha_117": -9223372036854775808,
+    "SMP_SHOWDOWN_W1_Audi_RS5Coupe_2014": -9223372036854775808,
+    "SMP_SHOWDOWN_W1_MercedesBenz_C63AMGEdition507_2014": -9223372036854775808,
+    "SMP_SHOWDOWN_W1_Honda_NSXRewardRecycled_2017": -9223372036854775808,
+    "SMP_SHOWDOWN_W1_AstonMartin_VantageV8RewardRecycled_2018": -9223372036854775808,
+    "SMP_SHOWDOWN_113_W2_GroupGacha1": -9223372036854775808,
+    "SMP_SHOWDOWN_113_W2_Car1": -9223372036854775808,
+    "SMP_SHOWDOWN_113_W2_Car2": -9223372036854775808,
+    "SMP_SHOWDOWN_113_W2_Car3": -9223372036854775808,
+    "SMP_SHOWDOWN_113_W2_Car4": -9223372036854775808,
+    "SMP_SHOWDOWN_113_W2_Car5": -9223372036854775808,
+    "DETROIT_MOTOR_CITY_A": -9223372036854775808,
+    "DETROIT_MOTOR_CITY_B": -9223372036854775808,
+    "DETROIT_MOTOR_CITY_C": -9223372036854775808,
+    "DETROIT_MOTOR_CITY_D": -9223372036854775808,
+    "DETROIT_MOTOR_CITY_E": -9223372036854775808,
+    "LA_BUILDERS_A": -9223372036854775808,
+    "LA_BUILDERS_B": -9223372036854775808,
+    "LA_BUILDERS_C": -9223372036854775808,
+    "LA_BUILDERS_D": -9223372036854775808,
+    "LA_BUILDERS_E": -9223372036854775808,
+    "STEPUP_DUALITY_113_PLYMOUTH_1": -9223372036854775808,
+    "FNF_STEPUP_FNF_FINALE_1": -9223372036854775808,
+    "FNF_FINALE_EVO_A": -9223372036854775808,
+    "FNF_FINALE_EVO_B": -9223372036854775808,
+    "FNF_FINALE_EVO_C": -9223372036854775808,
+    "FNF_FINALE_EVO_D": -9223372036854775808,
+    "FNF_FINALE_EVO_E": -9223372036854775808,
+    "DUALITY_CUP_113_GachaB": -9223372036854775808,
+    "REMOVED__CSRII-49836__FNF_FINALE_E": -9223372036854775808
+  },
+  "gpsrat": 0,
+  "tgpc": 0,
+  "glmt": 0,
+  "glrt": {},
+  "gmtk": {},
+  "hsfg": false,
+  "ldst": -9223372036854775808,
+  "ncui": 2,
+  "cscu": 1,
+  "mscu": 1,
+  "bcs1": "BEGIN",
+  "bcs2": "BEGIN",
+  "bcs3": "BEGIN",
+  "bcs4": "BEGIN",
+  "bcs5": "BEGIN",
+  "mddl": true,
+  "mumu": false,
+  "somu": false,
+  "onot": true,
+  "ospe": true,
+  "huvr": false,
+  "rnvr": 0,
+  "ntrr": 0,
+  "ntsr": 0,
+  "nint": "07/26/2020 12:19:37",
+  "ian5": false,
+  "raen": 0,
+  "tutr": 0,
+  "mfer": 0,
+  "rawo": 0,
+  "rwst": 0,
+  "pnaa": 0,
+  "apgr": false,
+  "pnau": false,
+  "mira": "",
+  "nsms": 0,
+  "nema": 0,
+  "ntwe": 0,
+  "nfbp": 0,
+  "ect1": 0,
+  "ect2": 0,
+  "ect3": 0,
+  "ect4": 0,
+  "ect5": 0,
+  "wanu": false,
+  "wafd": false,
+  "hsif": false,
+  "hsig": true,
+  "hsez": false,
+  "mtrr": 0,
+  "sfmp": false,
+  "wlar": 0,
+  "colo": 0,
+  "cplo": 0,
+  "cplt": 0,
+  "borl": 0,
+  "boid": 0,
+  "lbid": "01/01/0001 00:00:00",
+  "shbo": [
+    true,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "shpb": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "bspt": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "bsap": false,
+  "sape": false,
+  "watb": false,
+  "wtsb": false,
+  "tbta": false,
+  "tbst": -9223372036854775808,
+  "spta": false,
+  "spst": -9223372036854775808,
+  "liap": 0,
+  "lspp": 0,
+  "lplb": false,
+  "lpbe": false,
+  "labp": 0,
+  "bcta": false,
+  "bcst": -9223372036854775808,
+  "ssbo": [],
+  "cidc": [],
+  "hbfc": true,
+  "fcpi": 5,
+  "qfsf": false,
+  "hbfu": false,
+  "glrw": false,
+  "lang": "07/22/2020 00:34:37",
+  "uspl": "07/23/2020 12:19:37",
+  "pllv": 1,
+  "plrp": 500,
+  "prpb": 0.0,
+  "lbrp": 0,
+  "elor": 1200.0,
+  "ltin": "07/23/2020 12:19:37",
+  "rsli": 10,
+  "nirg": 0,
+  "ct2f": true,
+  "relf": 0,
+  "scnt": 0,
+  "hlof": false,
+  "hfot": false,
+  "lllm": "07/23/2020 12:19:45",
+  "lula": "fr_FR",
+  "pnprp": false,
+  "ftsp": true,
+  "trop": [],
+  "npgi": [],
+  "afnp": false,
+  "tmra": 0,
+  "hsfp": false,
+  "lfbn": "01/01/0001 00:00:00",
+  "pavt": "GAME_CENTER_AVATAR",
+  "pcap": 0,
+  "pavp": 0,
+  "puna": 2,
+  "caow": [
+    {
+      "unid": 1,
+      "crdb": "Mini_CooperS_2014",
+      "awar": false,
+      "grsp": [
+        3.92,
+        2.14,
+        1.39,
+        1.09,
+        0.89,
+        0.76
+      ],
+      "fidr": 3.59,
+      "nlpr": 0.5,
+      "tafr": 0.5,
+      "titp": 0.5,
+      "trld": 0.0,
+      "tssp": 0.5,
+      "tssr": 0.5,
+      "ttup": 0.5,
+      "ttpp": 0.5,
+      "appi": 2,
+      "orpi": 2,
+      "apiid": -2147483648,
+      "oriid": -2147483648,
+      "apcid": -2147483648,
+      "orcid": -2147483648,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
+      "aplid": -2147483648,
+      "orlid": -2147483648,
+      "aplzsid": -2147483648,
+      "orlzsid": -2147483648,
+      "apln": "",
+      "apcn": [
+        "Mini_CooperS_2014_Wheel1A_3D"
+      ],
+      "opcn": "Mini_CooperS_2014_Wheel1A_3D",
+      "bqmt": 0.0,
+      "bhmt": 0.0,
+      "ditr": 0.0,
+      "rcat": 0,
+      "rwon": 0,
+      "msou": 0,
+      "nuub": 0,
+      "ccna": 0,
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ],
+      "fpin": 0,
+      "rpst": [
+        {
+          "rvlo": 0,
+          "rvlf": 0
+        },
+        {
+          "rvlo": 0,
+          "rvlf": 0
+        },
+        {
+          "rvlo": 0,
+          "rvlf": 0
+        },
+        {
+          "rvlo": 0,
+          "rvlf": 0
+        }
+      ],
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
+      "cppi": 164,
+      "cepi": 0,
+      "tdut": 0.0,
+      "tdtt": 0.0,
+      "ttqm": 0.0,
+      "tthm": 0.0,
+      "tt60": 0.0,
+      "tt1h": 0.0,
+      "spqm": 0.0,
+      "sphm": 0.0,
+      "ctie": "TIER_1",
+      "csrc": "Tutorial",
+      "nupl": {
+        "txt": "",
+        "cpf": false
+      },
+      "esup": false,
+      "elcl": 0,
+      "gacp": false,
+      "paid": 2147483647,
+      "wpid": 2147483647,
+      "inid": 2147483647,
+      "caid": 2147483647,
+      "lzsid": 2147483647,
+      "livid": 2147483647,
+      "whbn": "",
+      "tlad": 0.0,
+      "need": false,
+      "cmlv": 0
+    }
+  ],
+  "cgpi": [
+    0,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "picl": [
+    "eNewsFeed"
+  ],
+  "playinbitms": [
+    {
+      "id": "Inbox36_FnF_Finale_20200715",
+      "read": false,
+      "expiry": 1596111593,
+      "timestart": 1595506793
+    }
+  ],
+  "cwfd": [],
+  "cwgi": [],
+  "pcsn": [],
+  "sssrp": false,
+  "cgift": {
+    "giftRqsts": []
+  },
+  "tgft": {
+    "giftRqsts": []
+  },
+  "snewc": [],
+  "snewg": [],
+  "sniape": [],
+  "tduf": {},
+  "crpb2": [],
+  "caup": [],
+  "cues": [],
+  "uipf": [],
+  "ufpu": [],
+  "uadu": [],
+  "uacu": [],
+  "urdm": [],
+  "uugdm": [],
+  "iapc": [],
+  "shwdnrecs": [],
+  "showdnsrt": false,
+  "showdneut": false,
+  "showdnsrc": 0,
+  "cid2": [],
+  "evleadrecs": [],
+  "lvmg": -1,
+  "lvmc": -1,
+  "lvme": -1,
+  "lpme": -1,
+  "lpic": -1,
+  "nfkr": [],
+  "evcc": [],
+  "evct": [],
+  "rlrc": [],
+  "mlrc": [],
+  "mlrc2": [],
+  "frlrc": [],
+  "hcrc": [],
+  "elbs": [],
+  "evmd": [],
+  "evcl": [],
+  "slcl": [],
+  "evca": [],
+  "sesta": [],
+  "isea": [],
+  "ucw": [],
+  "ncw": [],
+  "iscc": [],
+  "inse": [],
+  "iase": [],
+  "atse": {},
+  "adtw": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "cats": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "obco": [
+    "NewPlayer",
+    "IntroduceShaxGarage",
+    "IntroduceUserGarage",
+    "IntroduceShowroom",
+    "IntroduceConfigurator"
+  ],
+  "objc": [],
+  "obca": [],
+  "obja": {
+    "CompleteAllDailyObjectives_FTUE": {
+      "IsActive": true,
+      "HasCollected": false,
+      "SetRewardID": "HC_4"
+    },
+    "Get4PerfectShifts_FTUE": {
+      "m_perfectShiftCount": 2,
+      "IsActive": true,
+      "HasCollected": false,
+      "SetRewardID": "HC_1"
+    },
+    "Upgrade3Parts_FTUE": {
+      "m_upgradeCount": 0,
+      "IsActive": true,
+      "HasCollected": false,
+      "SetRewardID": "BK_3"
+    },
+    "PlayFor15minutes_FTUE": {
+      "m_objStartPlayTimeCount": 0,
+      "IsActive": true,
+      "HasCollected": false,
+      "SetRewardID": "HC_3"
+    },
+    "Play3SMPRaces_FTUE": {
+      "m_playRaceCount": 0,
+      "IsActive": true,
+      "HasCollected": false,
+      "SetRewardID": "SC_2"
+    },
+    "DailyLogIn_FTUE": {
+      "IsActive": true,
+      "HasCollected": false,
+      "SetRewardID": "SC_1"
+    },
+    "Get1WinsWithoutNitros_FTUE": {
+      "m_winsWithoutNitro": 0,
+      "IsActive": true,
+      "HasCollected": false,
+      "SetRewardID": "HC_2"
+    }
+  },
+  "doet": "07/24/2020 00:00:00",
+  "dolv": "01/01/0001 00:00:00",
+  "litt": "01/01/0001 00:00:00",
+  "arqu": [],
+  "calo": [],
+  "fupi": 10,
+  "fart": 5545723,
+  "abstb": 1254,
+  "lants2": 5789518,
+  "lsnts": 1595507023,
+  "ladt": "07/23/2020 12:19:37",
+  "adct": 0,
+  "gfrl": 0,
+  "hcfr": false,
+  "ftug": 0,
+  "w2ep1": false,
+  "w2ep2": false,
+  "caba": 0.0,
+  "cabr": 0,
+  "cbrr": 0,
+  "cums": 0,
+  "cpip": false,
+  "hafc": false,
+  "lsmd": -1,
+  "lsmc": 0,
+  "eifc": 0,
+  "eift": "07/23/2020 12:19:37",
+  "fifc": 0,
+  "fift": "01/01/1970 00:00:00",
+  "fist": "01/01/1970 00:00:00",
+  "flrc": 0,
+  "refp": 0,
+  "lfps": "01/01/1970 00:00:00",
+  "fsra": true,
+  "fbid": "",
+  "fiui": [],
+  "tifc": 0,
+  "tift": "07/23/2020 12:19:37",
+  "tcfc": 0,
+  "tcft": "01/01/0001 00:00:00",
+  "ratb": false,
+  "ratc": false,
+  "ludn": "07/23/2020 12:19:37",
+  "lclt": "10/03/1985 23:00:00",
+  "clng": 0,
+  "rcmo": "",
+  "rcbp": false,
+  "tcbl": 0,
+  "msmi": false,
+  "hsnt": false,
+  "hslt": false,
+  "lzst": 0,
+  "huca": false,
+  "btnq": 100.0,
+  "aupd": false,
+  "pupd": false,
+  "sscp": false,
+  "trhi": [
+    "Mini_CooperS_2014,0,130"
+  ],
+  "ltgq": 0,
+  "rclq": 0,
+  "nqrg": 0,
+  "nqnt": "10/31/2020 12:19:37",
+  "lttu": "MAX_CAR_TIERS",
+  "cumt": "MAX_CAR_TIERS",
+  "sIAPbn": false,
+  "lbcr": 0,
+  "duwt": false,
+  "cbcc": -1,
+  "cbcm": -1,
+  "cbto": [],
+  "cbtl": -1,
+  "cbli": -1,
+  "haff": true,
+  "ctbm": 0.0,
+  "cbpt": 0,
+  "cbpm": 0,
+  "wfgc": 0,
+  "wfgt": 0,
+  "tacon": {},
+  "ppct": "07/23/2020 14:19:37",
+  "adlt": 0,
+  "adsp": 0,
+  "ssle": {},
+  "ehsc": {},
+  "ehsa": {},
+  "lemt": "01/01/0001 00:00:00",
+  "adco": {},
+  "ladd": "01/01/0001 00:00:00",
+  "nadt": 0,
+  "rwld": 0,
+  "cath": 12,
+  "caci": [
+    1
+  ],
+  "racv": null,
+  "rasc": 0,
+  "rarc": 0,
+  "rawc": 0,
+  "pupr": [],
+  "tnci": -1,
+  "tnur": 0,
+  "tnuf": 0,
+  "tnvm": [],
+  "ppdl": [
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "NaggerCrewBattle",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "NaggerGachaFreeSpin",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "NaggerGachaPaidSpin",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "NaggerDailyBattle",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "NaggerEvoPart",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "NaggerFuse",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "NaggerFusingUnlock",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "NaggerLadderRace",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "NaggerRpLeaderBoard",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "NaggerSmp",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "TuningNagger",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "UpgradeAffordable",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "CrewChampSeasonStart",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "CrewChampSeasonEnd",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "CrewChampSeasonCalcRewards",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "LeaderboardSeasonWinner",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "LeaderboardSeasonStart",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "RaceWithFriends",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "FriendsGasReceived",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "AutoOpenDailyLoginRewardsScreen",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "GachaFreeBronzePopUp",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "MOTD",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "MOTD_ECB",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "NotifyUserOfDelivery",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "RegulationLevelUnlock",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "EnablePushNotifications",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "RateTheApp",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "VIPPopup",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "IAPPopup",
+      "LastTimeShownPersistant": 0
+    },
+    {
+      "racesSinceLastFirePersistant": 0,
+      "totalTimesShownPersistant": 0,
+      "PopupTypePersistant": "ReactRewardPopup",
+      "LastTimeShownPersistant": 0
+    }
+  ],
+  "ngrs": {},
+  "gflgs": {},
+  "nhbi": true,
+  "lbty": "RPWeekly",
+  "uxws": false,
+  "sxws": false,
+  "dops": false,
+  "demo": false,
+  "hsdm": false,
+  "ppcr": "RestOfWorld",
+  "mgis": false,
+  "tllc": 0,
+  "dlls": true,
+  "lwset": 0,
+  "smpchw": 0,
+  "smptr": 0,
+  "smpwsid": "",
+  "smpwca": true,
+  "smpact": "01/01/0001 00:00:00",
+  "smpbdt": "01/01/0001 00:00:00",
+  "ellp": 0,
+  "eaci": 0,
+  "emd": {
+    "eid": null,
+    "iem": false
+  },
+  "snrk": {},
+  "tcpd": {},
+  "tpapc": {},
+  "elic": {},
+  "ttsd": {},
+  "ecbc": [],
+  "lecb": "",
+  "smpsoc": 2,
+  "gppl": false,
+  "splr": 500,
+  "eslr": "01/01/0001 00:00:00",
+  "cubl": [],
+  "acmk": true,
+  "acid": "",
+  "acna": "",
+  "acec": "",
+  "acel": 0,
+  "acla": "NONE",
+  "acmt": "",
+  "acsl": false,
+  "acli": "",
+  "acpr": "",
+  "acpl": 1,
+  "aclp": 0.0,
+  "acrp": 0,
+  "acrs": 0,
+  "aprs": 0,
+  "ecrs": "01/01/0001 00:00:00",
+  "eprs": "01/01/0001 00:00:00",
+  "fcrw": "",
+  "cspe": false,
+  "cjrp": 0,
+  "scrp": false,
+  "nccc": false,
+  "cjls": 0,
+  "bich": false,
+  "csps": [],
+  "chen": true,
+  "nnjc": false,
+  "nnri": false,
+  "nnkc": "",
+  "vifc": 0,
+  "vrtj": 0,
+  "ncbp": 0,
+  "cht5": false,
+  "chs7": false,
+  "cpnd": "01/01/0001 00:00:00",
+  "cpns": 0,
+  "clby": "RPWeekly",
+  "clne": "01/01/0001 00:00:00",
+  "clce": "01/01/0001 00:00:00",
+  "clbi": false,
+  "clbp": true,
+  "clsp": false,
+  "cl3e": "01/01/0001 00:00:00",
+  "fktc": "07/23/2020 12:19:58",
+  "cl3i": [],
+  "clpl": [
+    "115_RPWeekly_"
+  ],
+  "crpe": {},
+  "schi": {},
+  "dlcc": -1,
+  "dlci": 0,
+  "dlca": 0,
+  "dlft": false,
+  "dlsm": false,
+  "dlea": "01/01/0001 00:00:00",
+  "dlel": "01/01/0001 00:00:00",
+  "dldm": "NORMAL_24H",
+  "vips": 0,
+  "vip5": 0,
+  "vies": 0,
+  "vie5": 0,
+  "vipt": "01/01/0001 00:00:00",
+  "vipn": null,
+  "vipe": null,
+  "cmmd": {},
+  "gadata": [],
+  "iads": {
+    "race": {
+      "PeriodStarted": "07/23/2020 12:19:47",
+      "AdsShownThisPeriod": 0,
+      "AdsShownAllTime": 0,
+      "PassesSinceAdWatched": 0,
+      "Instances": {},
+      "InstancesThisPeriod": [],
+      "FeatureHasOfferedAd": false,
+      "FeatureReminderOccurencesBeingTracked": false,
+      "FeatureReminderTimeFirstOccurence": "01/01/0001 00:00:00",
+      "FeatureReminderNumOccurences": 0
+    },
+    "daily_battle_retry": {
+      "PeriodStarted": "07/23/2020 12:19:47",
+      "AdsShownThisPeriod": 0,
+      "AdsShownAllTime": 0,
+      "PassesSinceAdWatched": 0,
+      "Instances": {},
+      "InstancesThisPeriod": [],
+      "FeatureHasOfferedAd": false,
+      "FeatureReminderOccurencesBeingTracked": false,
+      "FeatureReminderTimeFirstOccurence": "01/01/0001 00:00:00",
+      "FeatureReminderNumOccurences": 0
+    },
+    "part_delivery": {
+      "PeriodStarted": "07/23/2020 12:19:47",
+      "AdsShownThisPeriod": 0,
+      "AdsShownAllTime": 0,
+      "PassesSinceAdWatched": 0,
+      "Instances": {},
+      "InstancesThisPeriod": [],
+      "DeliverySkipData": []
+    },
+    "car_delivery": {
+      "PeriodStarted": "07/23/2020 12:19:47",
+      "AdsShownThisPeriod": 0,
+      "AdsShownAllTime": 0,
+      "PassesSinceAdWatched": 0,
+      "Instances": {},
+      "InstancesThisPeriod": [],
+      "DeliverySkipData": []
+    },
+    "restoration": {
+      "PeriodStarted": "07/23/2020 12:19:47",
+      "AdsShownThisPeriod": 0,
+      "AdsShownAllTime": 0,
+      "PassesSinceAdWatched": 0,
+      "Instances": {},
+      "InstancesThisPeriod": [],
+      "RestorationSkipData": []
+    },
+    "watch_to_gacha": {
+      "W2GachaData": [
+        {
+          "PeriodStarted": "07/23/2020 12:23:41",
+          "AdsShownThisPeriod": 0,
+          "AdsShownAllTime": 0,
+          "PassesSinceAdWatched": 0,
+          "Instances": {},
+          "InstancesThisPeriod": [],
+          "AdsShownThisSpin": 0,
+          "NumRejections": 0,
+          "RejectionPeriodStarted": "01/01/0001 00:00:00",
+          "GachaID": "Bronze"
+        }
+      ]
+    }
+  },
+  "fbdl": {},
+  "fgsp": false,
+  "hsepft": false,
+  "ophi": [],
+  "icnd": {
+    "ttcr": 0,
+    "cscu": 0,
+    "icow": [],
+    "csid": 0,
+    "srcl": {},
+    "rmsc": [],
+    "crpe": {},
+    "crps": {},
+    "crpn": {},
+    "lgcs": {},
+    "lgct": {}
+  },
+  "spmh": [],
+  "dbsr": [],
+  "dbps": [],
+  "llps": {},
+  "llpt": {},
+  "hllr": 0,
+  "cflc": false,
+  "cgtb": false,
+  "cbtr": false,
+  "lcam": "07/23/2020 14:19:37",
+  "cwab": [],
+  "lrrgtv2": "01/01/0001 00:00:00",
+  "rrgcv2": 0,
+  "efrfv2": false,
+  "rfstv2": "01/01/0001 00:00:00",
+  "lpstv2": 5555507,
+  "frts": "01/01/0001 00:00:00",
+  "ccac": {},
+  "camc": [],
+  "amcp": {},
+  "amtegaifc": 0,
+  "amftueparts": false,
+  "amftuecar": false,
+  "amftuefreerim": false
+}

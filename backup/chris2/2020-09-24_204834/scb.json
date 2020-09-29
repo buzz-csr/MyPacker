@@ -1,0 +1,71 @@
+
+{
+    "CashEarned": 1080713902,
+    "CashSpent": 252978639,
+    "GoldEarned": 174740,
+    "GoldSpent": 51159,
+    "GachaBronzeKeysEarned": 280900,
+    "GachaBronzeKeysSpent": 93695,
+    "GachaSilverKeysEarned": 24845,
+    "GachaSilverKeysSpent": 3905,
+    "GachaGoldKeysEarned": 625,
+    "GachaGoldKeysSpent": 223,
+    "RP": 47276542,
+    "RacesInCrewEarned": 83,
+    "RacesInCrewSpent": 0,
+    "RestorationPartsEarned": {
+        "Ferrari_250GTOClassic_1962": 19450,
+        "Pontiac_GTOTheJudgeClassic_1969": 30500,
+        "AstonMartin_DB5Classic_1964": 27550,
+        "MercedesBenz_300SLClassic_1954": 20000,
+        "Shelby_Cobra427SCClassic_1965": 25950,
+        "Lamborghini_CountachClassic_1988": 41600,
+        "Chevrolet_CorvetteZR1Classic_1970": 29650,
+        "Honda_NSXRClassic_1992": 15770,
+        "Plymouth_HemiCudaClassic_1971": 21550,
+        "Jaguar_XJ220Classic_1993": 53595,
+        "Ford_GT40MkII_1966": 7450,
+        "Porsche_CarreraGTClassic_2003": 32700,
+        "Bugatti_EB110SSClassic_1992": 32570,
+        "Saleen_S7Classic_2004": 24300
+    },
+    "RestorationPartsSpent": {
+        "Ferrari_250GTOClassic_1962": 14800,
+        "MercedesBenz_300SLClassic_1954": 17400,
+        "AstonMartin_DB5Classic_1964": 17400,
+        "Chevrolet_CorvetteZR1Classic_1970": 25800,
+        "Lamborghini_CountachClassic_1988": 28400,
+        "Bugatti_EB110SSClassic_1992": 13800,
+        "Honda_NSXRClassic_1992": 10000,
+        "Shelby_Cobra427SCClassic_1965": 25800,
+        "Jaguar_XJ220Classic_1993": 53400,
+        "Pontiac_GTOTheJudgeClassic_1969": 29600,
+        "Porsche_CarreraGTClassic_2003": 28400
+    },
+    "AMPartGreenEarned": 24655,
+    "AMPartBlueEarned": 10275,
+    "AMPartRedEarned": 4002,
+    "AMPartYellowEarned": 337,
+    "AMPartGreenSpent": 23265,
+    "AMPartBlueSpent": 275,
+    "AMPartRedSpent": 0,
+    "AMPartYellowSpent": 0,
+    "CarsSecureData": {
+        "19": {
+            "cui": 19,
+            "amml": 6
+        },
+        "230": {
+            "cui": 230,
+            "amml": 7
+        },
+        "421": {
+            "cui": 421,
+            "amml": 23
+        },
+        "463": {
+            "cui": 463,
+            "amml": 28
+        }
+    }
+}

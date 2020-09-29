@@ -1,0 +1,1 @@
+java -jar -Dfile.encoding=UTF-8 csrpacker-1.0-BETA.jar -a pack

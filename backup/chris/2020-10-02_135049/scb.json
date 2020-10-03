@@ -1,0 +1,114 @@
+
+{
+    "CashEarned": 758198269,
+    "CashSpent": 103715800,
+    "GoldEarned": 317961,
+    "GoldSpent": 229796,
+    "GachaBronzeKeysEarned": 742129,
+    "GachaBronzeKeysSpent": 633950,
+    "GachaSilverKeysEarned": 62157,
+    "GachaSilverKeysSpent": 16700,
+    "GachaGoldKeysEarned": 1827,
+    "GachaGoldKeysSpent": 890,
+    "RP": 263852249,
+    "RacesInCrewEarned": 33,
+    "RacesInCrewSpent": 0,
+    "RestorationPartsEarned": {
+        "Ferrari_250GTOClassic_1962": 18732,
+        "AstonMartin_DB5Classic_1964": 21560,
+        "Pontiac_GTOTheJudgeClassic_1969": 33437,
+        "Plymouth_HemiCudaClassic_1971": 43587,
+        "MercedesBenz_300SLClassic_1954": 22561,
+        "Shelby_Cobra427SCClassic_1965": 51835,
+        "Lamborghini_CountachClassic_1988": 54407,
+        "Chevrolet_CorvetteZR1Classic_1970": 32187,
+        "Honda_NSXRClassic_1992": 79811,
+        "Ford_GT40MkII_1966": 72115,
+        "Porsche_CarreraGTClassic_2003": 69883,
+        "Jaguar_XJ220Classic_1993": 77011,
+        "Saleen_S7Classic_2004": 80558,
+        "Bugatti_EB110SSClassic_1992": 69891
+    },
+    "RestorationPartsSpent": {
+        "Ferrari_250GTOClassic_1962": 14800,
+        "MercedesBenz_300SLClassic_1954": 17400,
+        "Plymouth_HemiCudaClassic_1971": 38200,
+        "Chevrolet_CorvetteZR1Classic_1970": 25800,
+        "Shelby_Cobra427SCClassic_1965": 51600,
+        "Porsche_CarreraGTClassic_2003": 50000,
+        "Honda_NSXRClassic_1992": 54600,
+        "AstonMartin_DB5Classic_1964": 17400,
+        "Ford_GT40MkII_1966": 71200,
+        "Pontiac_GTOTheJudgeClassic_1969": 29600,
+        "Bugatti_EB110SSClassic_1992": 50000,
+        "Jaguar_XJ220Classic_1993": 76400,
+        "Lamborghini_CountachClassic_1988": 52400,
+        "Saleen_S7Classic_2004": 77000
+    },
+    "AMPartGreenEarned": 107140,
+    "AMPartBlueEarned": 34720,
+    "AMPartRedEarned": 11340,
+    "AMPartYellowEarned": 816,
+    "AMPartGreenSpent": 75060,
+    "AMPartBlueSpent": 31040,
+    "AMPartRedSpent": 10055,
+    "AMPartYellowSpent": 316,
+    "CarsSecureData": {
+        "27": {
+            "cui": 27,
+            "amml": 35
+        },
+        "105": {
+            "cui": 105,
+            "amml": 28
+        },
+        "106": {
+            "cui": 106,
+            "amml": 48
+        },
+        "372": {
+            "cui": 372,
+            "amml": 20
+        },
+        "863": {
+            "cui": 863,
+            "amml": 15
+        },
+        "878": {
+            "cui": 878,
+            "amml": 17
+        },
+        "877": {
+            "cui": 877,
+            "amml": 4
+        },
+        "1300": {
+            "cui": 1300,
+            "amml": 19
+        },
+        "1728": {
+            "cui": 1728,
+            "amml": 2
+        },
+        "1772": {
+            "cui": 1772,
+            "amml": 48
+        },
+        "1798": {
+            "cui": 1798,
+            "amml": 49
+        },
+        "1797": {
+            "cui": 1797,
+            "amml": 50
+        },
+        "1597": {
+            "cui": 1597,
+            "amml": 12
+        },
+        "1824": {
+            "cui": 1824,
+            "amml": 7
+        }
+    }
+}

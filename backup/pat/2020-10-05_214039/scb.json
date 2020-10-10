@@ -1,0 +1,129 @@
+{
+  "CashEarned": 1724038492,
+  "CashSpent": 1405196874,
+  "GoldEarned": 95680,
+  "GoldSpent": 28525,
+  "GachaBronzeKeysEarned": 902229,
+  "GachaBronzeKeysSpent": 398724,
+  "GachaSilverKeysEarned": 76401,
+  "GachaSilverKeysSpent": 7542,
+  "GachaGoldKeysEarned": 1996,
+  "GachaGoldKeysSpent": 319,
+  "RP": 80580147,
+  "RacesInCrewEarned": 0,
+  "RacesInCrewSpent": 0,
+  "RestorationPartsEarned": {
+    "Ferrari_250GTOClassic_1962": 39307,
+    "AstonMartin_DB5Classic_1964": 59012,
+    "MercedesBenz_300SLClassic_1954": 63718,
+    "Shelby_Cobra427SCClassic_1965": 77908,
+    "Lamborghini_CountachClassic_1988": 91434,
+    "Pontiac_GTOTheJudgeClassic_1969": 79129,
+    "Chevrolet_CorvetteZR1Classic_1970": 52391,
+    "Honda_NSXRClassic_1992": 75811,
+    "Ford_GT40MkII_1966": 96019,
+    "Porsche_CarreraGTClassic_2003": 117480,
+    "Plymouth_HemiCudaClassic_1971": 77486,
+    "Jaguar_XJ220Classic_1993": 109885,
+    "Bugatti_EB110SSClassic_1992": 103633,
+    "Saleen_S7Classic_2004": 64707
+  },
+  "RestorationPartsSpent": {
+    "Ferrari_250GTOClassic_1962": 29600,
+    "AstonMartin_DB5Classic_1964": 52200,
+    "MercedesBenz_300SLClassic_1954": 52200,
+    "Chevrolet_CorvetteZR1Classic_1970": 51600,
+    "Shelby_Cobra427SCClassic_1965": 77400,
+    "Pontiac_GTOTheJudgeClassic_1969": 63800,
+    "Honda_NSXRClassic_1992": 72000,
+    "Plymouth_HemiCudaClassic_1971": 76400,
+    "Ford_GT40MkII_1966": 80200,
+    "Lamborghini_CountachClassic_1988": 86600,
+    "Jaguar_XJ220Classic_1993": 106800,
+    "Porsche_CarreraGTClassic_2003": 103600,
+    "Bugatti_EB110SSClassic_1992": 100000,
+    "Saleen_S7Classic_2004": 56400
+  },
+  "AMPartGreenEarned": 15,
+  "AMPartBlueEarned": 0,
+  "AMPartRedEarned": 0,
+  "AMPartYellowEarned": 0,
+  "AMPartGreenSpent": 15,
+  "AMPartBlueSpent": 0,
+  "AMPartRedSpent": 0,
+  "AMPartYellowSpent": 0,
+  "CarsSecureData": {
+    "75": {
+      "cui": 75,
+      "amml": 5
+    },
+    "113": {
+      "cui": 113,
+      "amml": 5
+    },
+    "221": {
+      "cui": 221,
+      "amml": 5
+    },
+    "397": {
+      "cui": 397,
+      "amml": 35
+    },
+    "398": {
+      "cui": 398,
+      "amml": 10
+    },
+    "399": {
+      "cui": 399,
+      "amml": 10
+    },
+    "449": {
+      "cui": 449,
+      "amml": 5
+    },
+    "514": {
+      "cui": 514,
+      "amml": 5
+    },
+    "516": {
+      "cui": 516,
+      "amml": 5
+    },
+    "558": {
+      "cui": 558,
+      "amml": 7
+    },
+    "646": {
+      "cui": 646,
+      "amml": 5
+    },
+    "700": {
+      "cui": 700,
+      "amml": 5
+    },
+    "813": {
+      "cui": 813,
+      "amml": 5
+    },
+    "969": {
+      "cui": 969,
+      "amml": 45
+    },
+    "1117": {
+      "cui": 1117,
+      "amml": 10
+    },
+    "1235": {
+      "cui": 1235,
+      "amml": 5
+    },
+    "1236": {
+      "cui": 1236,
+      "amml": 7
+    },
+    "1378": {
+      "cui": 1378,
+      "amml": 13
+    }
+  }
+}

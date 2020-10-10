@@ -3,6 +3,8 @@
 echo "Entrez le compte: "
 read username="Entrez le compte: "
 
+mkdir "../backup/$username"
+
 folder="../backup/$username/$(date +'%Y-%m-%d_%H%M%S')"
 
 mkdir $folder

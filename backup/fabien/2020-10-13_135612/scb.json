@@ -1,0 +1,51 @@
+{
+  "CashEarned": 46250812,
+  "CashSpent": 35513794,
+  "GoldEarned": 15745,
+  "GoldSpent": 8718,
+  "GachaBronzeKeysEarned": 29165,
+  "GachaBronzeKeysSpent": 8640,
+  "GachaSilverKeysEarned": 3150,
+  "GachaSilverKeysSpent": 330,
+  "GachaGoldKeysEarned": 432,
+  "GachaGoldKeysSpent": 78,
+  "RP": 2081128,
+  "RacesInCrewEarned": 3,
+  "RacesInCrewSpent": 0,
+  "RestorationPartsEarned": {
+    "Ferrari_250GTOClassic_1962": 19900,
+    "AstonMartin_DB5Classic_1964": 21340,
+    "MercedesBenz_300SLClassic_1954": 13935,
+    "Shelby_Cobra427SCClassic_1965": 9750,
+    "Lamborghini_CountachClassic_1988": 8500,
+    "Pontiac_GTOTheJudgeClassic_1969": 8500,
+    "Chevrolet_CorvetteZR1Classic_1970": 10250,
+    "Honda_NSXRClassic_1992": 10515,
+    "Bugatti_EB110SSClassic_1992": 900,
+    "Plymouth_HemiCudaClassic_1971": 300
+  },
+  "RestorationPartsSpent": {
+    "Ferrari_250GTOClassic_1962": 14800,
+    "AstonMartin_DB5Classic_1964": 17400,
+    "MercedesBenz_300SLClassic_1954": 11600,
+    "Honda_NSXRClassic_1992": 10000
+  },
+  "AMPartGreenEarned": 15,
+  "AMPartBlueEarned": 0,
+  "AMPartRedEarned": 0,
+  "AMPartYellowEarned": 0,
+  "AMPartGreenSpent": 15,
+  "AMPartBlueSpent": 0,
+  "AMPartRedSpent": 0,
+  "AMPartYellowSpent": 0,
+  "CarsSecureData": {
+    "13": {
+      "cui": 13,
+      "amml": 50
+    },
+    "55": {
+      "cui": 55,
+      "amml": 16
+    }
+  }
+}

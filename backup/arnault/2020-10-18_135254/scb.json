@@ -1,0 +1,86 @@
+
+{
+    "CashEarned": 1032141337,
+    "CashSpent": 185537491,
+    "GoldEarned": 190675,
+    "GoldSpent": 55893,
+    "GachaBronzeKeysEarned": 353841,
+    "GachaBronzeKeysSpent": 99460,
+    "GachaSilverKeysEarned": 39531,
+    "GachaSilverKeysSpent": 6805,
+    "GachaGoldKeysEarned": 1229,
+    "GachaGoldKeysSpent": 405,
+    "RP": 77215749,
+    "RacesInCrewEarned": 0,
+    "RacesInCrewSpent": 0,
+    "RestorationPartsEarned": {
+        "Ferrari_250GTOClassic_1962": 24880,
+        "AstonMartin_DB5Classic_1964": 29644,
+        "MercedesBenz_300SLClassic_1954": 24470,
+        "Shelby_Cobra427SCClassic_1965": 34859,
+        "Lamborghini_CountachClassic_1988": 50208,
+        "Pontiac_GTOTheJudgeClassic_1969": 35934,
+        "Chevrolet_CorvetteZR1Classic_1970": 36695,
+        "Bugatti_EB110SSClassic_1992": 89828,
+        "Honda_NSXRClassic_1992": 43484,
+        "Ford_GT40MkII_1966": 42320,
+        "Jaguar_XJ220Classic_1993": 63767,
+        "Plymouth_HemiCudaClassic_1971": 42993,
+        "Saleen_S7Classic_2004": 92409,
+        "Porsche_CarreraGTClassic_2003": 54869
+    },
+    "RestorationPartsSpent": {
+        "Ferrari_250GTOClassic_1962": 14800,
+        "MercedesBenz_300SLClassic_1954": 17400,
+        "Chevrolet_CorvetteZR1Classic_1970": 25800,
+        "AstonMartin_DB5Classic_1964": 17400,
+        "Pontiac_GTOTheJudgeClassic_1969": 29600,
+        "Plymouth_HemiCudaClassic_1971": 38200,
+        "Lamborghini_CountachClassic_1988": 40400,
+        "Shelby_Cobra427SCClassic_1965": 25800,
+        "Ford_GT40MkII_1966": 35600,
+        "Bugatti_EB110SSClassic_1992": 50000,
+        "Honda_NSXRClassic_1992": 36000,
+        "Porsche_CarreraGTClassic_2003": 50000,
+        "Jaguar_XJ220Classic_1993": 53400,
+        "Saleen_S7Classic_2004": 87200
+    },
+    "AMPartGreenEarned": 74595,
+    "AMPartBlueEarned": 21260,
+    "AMPartRedEarned": 10140,
+    "AMPartYellowEarned": 900,
+    "AMPartGreenSpent": 72100,
+    "AMPartBlueSpent": 11260,
+    "AMPartRedSpent": 5140,
+    "AMPartYellowSpent": 400,
+    "FlexibleCurrenciesEarned": {
+    },
+    "FlexibleCurrenciesSpent": {
+    },
+    "CarsSecureData": {
+        "37": {
+            "cui": 37,
+            "amml": 18
+        },
+        "41": {
+            "cui": 41,
+            "amml": 25
+        },
+        "281": {
+            "cui": 281,
+            "amml": 20
+        },
+        "316": {
+            "cui": 316,
+            "amml": 15
+        },
+        "342": {
+            "cui": 342,
+            "amml": 20
+        },
+        "485": {
+            "cui": 485,
+            "amml": 49
+        }
+    }
+}

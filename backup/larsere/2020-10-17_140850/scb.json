@@ -1,0 +1,162 @@
+
+{
+    "CashEarned": 1915133462,
+    "CashSpent": 594073228,
+    "GoldEarned": 280814,
+    "GoldSpent": 139118,
+    "GachaBronzeKeysEarned": 527570,
+    "GachaBronzeKeysSpent": 299800,
+    "GachaSilverKeysEarned": 63006,
+    "GachaSilverKeysSpent": 19675,
+    "GachaGoldKeysEarned": 1677,
+    "GachaGoldKeysSpent": 930,
+    "RP": 143296237,
+    "RacesInCrewEarned": 20,
+    "RacesInCrewSpent": 0,
+    "RestorationPartsEarned": {
+        "Ferrari_250GTOClassic_1962": 22191,
+        "Porsche_CarreraGTClassic_2003": 257881,
+        "AstonMartin_DB5Classic_1964": 24824,
+        "Pontiac_GTOTheJudgeClassic_1969": 63666,
+        "Honda_NSXRClassic_1992": 53002,
+        "MercedesBenz_300SLClassic_1954": 25822,
+        "Shelby_Cobra427SCClassic_1965": 53223,
+        "Lamborghini_CountachClassic_1988": 55288,
+        "Chevrolet_CorvetteZR1Classic_1970": 38871,
+        "Plymouth_HemiCudaClassic_1971": 78254,
+        "Ford_GT40MkII_1966": 51821,
+        "Jaguar_XJ220Classic_1993": 65440,
+        "Bugatti_EB110SSClassic_1992": 77824,
+        "Saleen_S7Classic_2004": 57753
+    },
+    "RestorationPartsSpent": {
+        "Ferrari_250GTOClassic_1962": 14800,
+        "Honda_NSXRClassic_1992": 36000,
+        "MercedesBenz_300SLClassic_1954": 17400,
+        "Chevrolet_CorvetteZR1Classic_1970": 29600,
+        "AstonMartin_DB5Classic_1964": 17400,
+        "Shelby_Cobra427SCClassic_1965": 51600,
+        "Pontiac_GTOTheJudgeClassic_1969": 59200,
+        "Porsche_CarreraGTClassic_2003": 250000,
+        "Lamborghini_CountachClassic_1988": 40400,
+        "Ford_GT40MkII_1966": 35600,
+        "Plymouth_HemiCudaClassic_1971": 76400,
+        "Bugatti_EB110SSClassic_1992": 50000,
+        "Jaguar_XJ220Classic_1993": 53400,
+        "Saleen_S7Classic_2004": 56400
+    },
+    "AMPartGreenEarned": 113470,
+    "AMPartBlueEarned": 22965,
+    "AMPartRedEarned": 8295,
+    "AMPartYellowEarned": 600,
+    "AMPartGreenSpent": 104650,
+    "AMPartBlueSpent": 12965,
+    "AMPartRedSpent": 3295,
+    "AMPartYellowSpent": 100,
+    "FlexibleCurrenciesEarned": {
+    },
+    "FlexibleCurrenciesSpent": {
+    },
+    "CarsSecureData": {
+        "30": {
+            "cui": 30,
+            "amml": 3
+        },
+        "169": {
+            "cui": 169,
+            "amml": 12
+        },
+        "212": {
+            "cui": 212,
+            "amml": 2
+        },
+        "224": {
+            "cui": 224,
+            "amml": 12
+        },
+        "321": {
+            "cui": 321,
+            "amml": 10
+        },
+        "434": {
+            "cui": 434,
+            "amml": 15
+        },
+        "647": {
+            "cui": 647,
+            "amml": 7
+        },
+        "683": {
+            "cui": 683,
+            "amml": 3
+        },
+        "709": {
+            "cui": 709,
+            "amml": 1
+        },
+        "754": {
+            "cui": 754,
+            "amml": 23
+        },
+        "733": {
+            "cui": 733,
+            "amml": 1
+        },
+        "797": {
+            "cui": 797,
+            "amml": 12
+        },
+        "827": {
+            "cui": 827,
+            "amml": 3
+        },
+        "796": {
+            "cui": 796,
+            "amml": 2
+        },
+        "913": {
+            "cui": 913,
+            "amml": 10
+        },
+        "951": {
+            "cui": 951,
+            "amml": 5
+        },
+        "1005": {
+            "cui": 1005,
+            "amml": 14
+        },
+        "1063": {
+            "cui": 1063,
+            "amml": 5
+        },
+        "1097": {
+            "cui": 1097,
+            "amml": 12
+        },
+        "1415": {
+            "cui": 1415,
+            "amml": 17
+        },
+        "1408": {
+            "cui": 1408,
+            "amml": 26
+        },
+        "1446": {
+            "cui": 1446,
+            "amml": 48
+        },
+        "1480": {
+            "cui": 1480,
+            "amml": 50
+        },
+        "1582": {
+            "cui": 1582,
+            "amml": 7
+        },
+        "1659": {
+            "cui": 1659,
+            "amml": 8
+        }
+    }
+}

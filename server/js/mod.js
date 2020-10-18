@@ -787,6 +787,15 @@ modModule.controller('modCtrl', ['$scope', '$http', function($scope,$http){
 		downloadLink.click();
 	}
 	
+	$http({
+		method: 'GET',
+		url: 'http://localhost:8003/nsb.full.txt',
+		headers : {'Content-type' : 'application/json; charset=UTF-8'}
+	}).then(function(response){
+		$scope.fileMax = response.data;
+	});	
+	
+
 	var carTest = {
       "unid": 1741,
       "crdb": "Chevrolet_NASCARCamaroZL1_2020",
